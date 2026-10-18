@@ -34,9 +34,10 @@ These results indicate that the tested endpoint now requires authentication. The
 
 ## 6. Evidence
 The following screenshots will be added to the `evidence` folder:
-1. `01-admin-dashboard-login.png`
-2. `02-before-security-fix.png`
-3. `03-after-security-fix.png`
+1. `01_Admin_Dashboard_Login.png`
+2. `02_Before_Security_Fix.png`
+3. `03_After_Security_Fix.png`
+4. `04_Dashboard_After_Fix.png`
 
 ## 7. Recommendations
 - Review other admin-only API routes for authentication and authorization.
